@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+.travel_mainDiv{
+    text-align: center;
+}
+marquee{
+    background-color: aqua;
+    color: red;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
